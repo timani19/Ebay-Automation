@@ -1,0 +1,45 @@
+@Test(enabled=false)- If we have [enabled=false] next to a test annotation then this test case will not run when we will run the runner file.
+
+
+DropDown:
+
+To test the dropdown of a webpage use the Select class. We can use .selectByVisibleText AND .selectByIndex to find a specific element
+
+
+MouseHover:
+
+An image or hyperlink that appears when a cursor is moved over a specific point on a web page.
+
+MouseHover means when you go to any tab and some other pages pops in, those scenarios can be tested by mouseHover.
+
+In Ebay’s case- if you move your cursor to ‘Fashion’- you will other options came up.In those scenario, we will use mouseHover.
+
+We can add the method below in CommonAPI:
+
+ public void mouseHover(String locator) {
+        WebElement element = getElementByLinkText(locator);
+        Actions actions = new Actions(driver);
+        actions.moveToElement(element).build().perform();
+    }
+
+* Whenever we import Action class- we need to get the web driver object/instance.
+* Whenever we call an Actions class we need to call build().perform();
+
+
+Scroll Through a WebPage:
+
+In most websites we need to scroll down to view other contents. In those scenario we can use below method:
+
+
+Notes:
+
+arguments[0].scrollIntoView(true) - change the name .scrollIntoView according to the method name. If the method name is different then we need to change .scrollIntoView to whatever the
+method name is.
+
+Another way to scrolling:
+@Test
+    public void testScrolling() {
+        JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
+        javascriptExecutor.executeScript("window.scrollBy(0,1000)");
+        sleepFor(10);}
+

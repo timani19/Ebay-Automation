@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75eaed8b-b9db-4898-98ed-f7ab8145dde7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RwmpNNaG6bOkuLMsB2M0ijFmeG" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tanim Imani\IdeaProjects\AutomationFramework\Generic\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Tanim Imani/IdeaProjects/AutomationFramework/Ebay/src/test/resources/EbayTestRunner.xml">
+    <configuration name="C:/Users/Tanim Imani/IdeaProjects/AutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Tanim Imani/IdeaProjects/AutomationFramework/Ebay/src/test/resources/EbayTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/EbayTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePage.findUrl" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ebayhome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ebayhome" />
+      <option name="MAIN_CLASS_NAME" value="ebayhome.HomePage" />
+      <option name="METHOD_NAME" value="findUrl" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Tanim Imani/IdeaProjects/AutomationFramework/Ebay/src/test/resources/EbayTestRunner.xml" />
+        <item itemvalue="TestNG.HomePage.findUrl" />
+        <item itemvalue="TestNG.C:/Users/Tanim Imani/IdeaProjects/AutomationFramework/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75eaed8b-b9db-4898-98ed-f7ab8145dde7" name="Default Changelist" comment="" />
+      <created>1570586714567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570586714567</updated>
+    </task>
+    <servers />
+  </component>
+</project>
